@@ -11,7 +11,7 @@ function App() {
   const tierFeatures = {
       "free": [
         {"id":"0", "title":"Single User", "availability": true },
-        {"id":"1", "title":"5GB Storage", "availability": true },
+        {"id":"1", "title":"50GB Storage", "availability": true },
         {"id":"2", "title":"Unlimited Public Projects", "availability": true },
         {"id":"3", "title":"Community Access", "availability": true },
         {"id":"4", "title":"Unlimited Private Projects", "availability": false },
